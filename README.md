@@ -9,7 +9,7 @@ This is the code repository for [Ensemble Machine Learning Cookbook](https://www
 ## What is this book about?
 Ensemble modeling is an approach used to improve the performance of machine learning models. It combines two or more similar or dissimilar machine learning algorithms to deliver superior intellectual powers. This book will help you to implement popular machine learning algorithms to cover different paradigms of ensemble machine learning such as boosting, bagging, and stacking.
 
-This book covers the following exciting features: <First 5 What you'll learn points>
+This book covers the following exciting features:
 * Understand how to use machine learning algorithms for regression and classification problems
 * Implement ensemble techniques such as averaging, weighted averaging, and max-voting
 * Get to grips with advanced ensemble methods, such as bootstrapping, bagging, and stacking
